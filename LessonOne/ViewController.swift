@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     
 
-
+// some comment
 
 
     @IBOutlet weak var imgBackground: UIImageView!
