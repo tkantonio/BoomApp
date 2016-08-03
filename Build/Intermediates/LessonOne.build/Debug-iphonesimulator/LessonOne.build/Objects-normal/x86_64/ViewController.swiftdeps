@@ -1,0 +1,287 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C9LessonOne14ViewController"
+provides-member:
+- ["C9LessonOne14ViewController", ""]
+provides-dynamic-lookup:
+- "imgLessonOne"
+- "imgBackground"
+- "viewDidLoad"
+- "btnBoom"
+- "btnShowLogoClick"
+- "didReceiveMemoryWarning"
+- "btnToggleBackground"
+- "btnBoomPressed"
+depends-top-level:
+- !private "=="
+- "UIImageView"
+- !private "BooleanLiteralType"
+- "UIViewController"
+- "UIButton"
+- "ViewController"
+- "AnyObject"
+depends-member:
+- ["Ps9AnyObject", "btnBoom"]
+- ["Ps9AnyObject", "btnBoomPressed"]
+- ["Ps9AnyObject", "btnShowLogoClick"]
+- ["Ps9AnyObject", "btnToggleBackground"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "hidden"]
+- ["Ps9AnyObject", "imgBackground"]
+- ["Ps9AnyObject", "imgLessonOne"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- ["Ps11CVarArgType", "btnBoom"]
+- ["Ps11CVarArgType", "btnBoomPressed"]
+- ["Ps11CVarArgType", "btnShowLogoClick"]
+- ["Ps11CVarArgType", "btnToggleBackground"]
+- ["Ps11CVarArgType", "didReceiveMemoryWarning"]
+- !private ["Ps11CVarArgType", "hidden"]
+- ["Ps11CVarArgType", "imgBackground"]
+- ["Ps11CVarArgType", "imgLessonOne"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "viewDidLoad"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "btnBoom"]
+- ["Ps28CustomDebugStringConvertible", "btnBoomPressed"]
+- ["Ps28CustomDebugStringConvertible", "btnShowLogoClick"]
+- ["Ps28CustomDebugStringConvertible", "btnToggleBackground"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "hidden"]
+- ["Ps28CustomDebugStringConvertible", "imgBackground"]
+- ["Ps28CustomDebugStringConvertible", "imgLessonOne"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "btnBoom"]
+- ["Ps23CustomStringConvertible", "btnBoomPressed"]
+- ["Ps23CustomStringConvertible", "btnShowLogoClick"]
+- ["Ps23CustomStringConvertible", "btnToggleBackground"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "hidden"]
+- ["Ps23CustomStringConvertible", "imgBackground"]
+- ["Ps23CustomStringConvertible", "imgLessonOne"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "btnBoom"]
+- ["Ps9Equatable", "btnBoomPressed"]
+- ["Ps9Equatable", "btnShowLogoClick"]
+- ["Ps9Equatable", "btnToggleBackground"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "hidden"]
+- ["Ps9Equatable", "imgBackground"]
+- ["Ps9Equatable", "imgLessonOne"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "btnBoom"]
+- ["Ps8Hashable", "btnBoomPressed"]
+- ["Ps8Hashable", "btnShowLogoClick"]
+- ["Ps8Hashable", "btnToggleBackground"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "hidden"]
+- ["Ps8Hashable", "imgBackground"]
+- ["Ps8Hashable", "imgLessonOne"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "btnBoom"]
+- ["PSo8NSCoding", "btnBoomPressed"]
+- ["PSo8NSCoding", "btnShowLogoClick"]
+- ["PSo8NSCoding", "btnToggleBackground"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "hidden"]
+- ["PSo8NSCoding", "imgBackground"]
+- ["PSo8NSCoding", "imgLessonOne"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "btnBoom"]
+- ["PSo26NSExtensionRequestHandling", "btnBoomPressed"]
+- ["PSo26NSExtensionRequestHandling", "btnShowLogoClick"]
+- ["PSo26NSExtensionRequestHandling", "btnToggleBackground"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "imgBackground"]
+- ["PSo26NSExtensionRequestHandling", "imgLessonOne"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "btnBoom"]
+- ["CSo8NSObject", "btnBoomPressed"]
+- ["CSo8NSObject", "btnShowLogoClick"]
+- ["CSo8NSObject", "btnToggleBackground"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "hidden"]
+- ["CSo8NSObject", "imgBackground"]
+- ["CSo8NSObject", "imgLessonOne"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "btnBoom"]
+- ["PSo16NSObjectProtocol", "btnBoomPressed"]
+- ["PSo16NSObjectProtocol", "btnShowLogoClick"]
+- ["PSo16NSObjectProtocol", "btnToggleBackground"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "hidden"]
+- ["PSo16NSObjectProtocol", "imgBackground"]
+- ["PSo16NSObjectProtocol", "imgLessonOne"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo29UIAccessibilityIdentification", "hidden"]
+- !private ["PSo12UIAppearance", "hidden"]
+- ["PSo21UIAppearanceContainer", "btnBoom"]
+- ["PSo21UIAppearanceContainer", "btnBoomPressed"]
+- ["PSo21UIAppearanceContainer", "btnShowLogoClick"]
+- ["PSo21UIAppearanceContainer", "btnToggleBackground"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "hidden"]
+- ["PSo21UIAppearanceContainer", "imgBackground"]
+- ["PSo21UIAppearanceContainer", "imgLessonOne"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "btnBoom"]
+- ["PSo18UIContentContainer", "btnBoomPressed"]
+- ["PSo18UIContentContainer", "btnShowLogoClick"]
+- ["PSo18UIContentContainer", "btnToggleBackground"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "imgBackground"]
+- ["PSo18UIContentContainer", "imgLessonOne"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "hidden"]
+- !private ["PSo13UIDynamicItem", "hidden"]
+- ["PSo18UIFocusEnvironment", "btnBoom"]
+- ["PSo18UIFocusEnvironment", "btnBoomPressed"]
+- ["PSo18UIFocusEnvironment", "btnShowLogoClick"]
+- ["PSo18UIFocusEnvironment", "btnToggleBackground"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "hidden"]
+- ["PSo18UIFocusEnvironment", "imgBackground"]
+- ["PSo18UIFocusEnvironment", "imgLessonOne"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIImageView", "hidden"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "btnBoom"]
+- ["CSo11UIResponder", "btnBoomPressed"]
+- ["CSo11UIResponder", "btnShowLogoClick"]
+- ["CSo11UIResponder", "btnToggleBackground"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "hidden"]
+- ["CSo11UIResponder", "imgBackground"]
+- ["CSo11UIResponder", "imgLessonOne"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "btnBoom"]
+- ["PSo16UIStateRestoring", "btnBoomPressed"]
+- ["PSo16UIStateRestoring", "btnShowLogoClick"]
+- ["PSo16UIStateRestoring", "btnToggleBackground"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "imgBackground"]
+- ["PSo16UIStateRestoring", "imgLessonOne"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "btnBoom"]
+- ["PSo18UITraitEnvironment", "btnBoomPressed"]
+- ["PSo18UITraitEnvironment", "btnShowLogoClick"]
+- ["PSo18UITraitEnvironment", "btnToggleBackground"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "hidden"]
+- ["PSo18UITraitEnvironment", "imgBackground"]
+- ["PSo18UITraitEnvironment", "imgLessonOne"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "hidden"]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UIImageView"]
+- ["CSo16UIViewController", "btnBoom"]
+- ["CSo16UIViewController", "btnBoomPressed"]
+- ["CSo16UIViewController", "btnShowLogoClick"]
+- ["CSo16UIViewController", "btnToggleBackground"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "imgBackground"]
+- ["CSo16UIViewController", "imgLessonOne"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C9LessonOne14ViewController", "AnyObject"]
+- ["C9LessonOne14ViewController", "UIButton"]
+- ["C9LessonOne14ViewController", "UIImageView"]
+- ["C9LessonOne14ViewController", "btnBoom"]
+- ["C9LessonOne14ViewController", "btnBoomPressed"]
+- ["C9LessonOne14ViewController", "btnShowLogoClick"]
+- ["C9LessonOne14ViewController", "btnToggleBackground"]
+- ["C9LessonOne14ViewController", "deinit"]
+- ["C9LessonOne14ViewController", "didReceiveMemoryWarning"]
+- ["C9LessonOne14ViewController", "imgBackground"]
+- ["C9LessonOne14ViewController", "imgLessonOne"]
+- ["C9LessonOne14ViewController", "init"]
+- ["C9LessonOne14ViewController", "viewDidLoad"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "hidden"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "CSo11UIImageView"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "C9LessonOne14ViewController"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+interface-hash: "18b6b39703a0706867706c0a33faff21"

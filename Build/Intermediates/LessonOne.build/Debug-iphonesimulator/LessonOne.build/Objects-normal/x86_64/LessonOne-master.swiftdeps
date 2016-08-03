@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "9b594d33f1cf7340da8e1590e8a7e12a"
+build_time: [523529700, 270216000]
+inputs:
+  "/Users/tomaszkawka/Desktop/iOSL/LessonOne/LessonOne/LessonOne/ViewController.swift": [523529699, 0]
+  "/Users/tomaszkawka/Desktop/iOSL/LessonOne/LessonOne/LessonOne/AppDelegate.swift": [523483061, 0]
